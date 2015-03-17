@@ -59,13 +59,18 @@ Igualmente, en este sitio web se encontraran las [presentaciones](/presentacione
 
 > Sesión 13: *Marzo 19 de 2015*
 
-> Sesión 14: *Marzo 19 de 2015*
+-Sesiones 14 a 16: Introducción a unity (Por John Higuera)
 
--Sesiones 15 a 16: Introducción a unity (Por John Higuera)
+> Sesión 14: *Marzo 19 de 2015*
 
 > Sesión 15: *Marzo 24 de 2015*
 
 > Sesión 16: *Marzo 26 de 2015*
+
+> <font color="red">*Marzo 31 de 2015*: No hay clase (semana santa)</font>
+
+> <font color="red">*Abril 2 de 2015*: No hay clase (semana santa</font>)
+
 
 ####Parte 3 Producción
 
