@@ -67,7 +67,7 @@ Igualmente, en este sitio web se encontraran las [presentaciones](/presentacione
 
 > <font color="red">*Marzo 31 de 2015*: No hay clase (semana santa)</font>
 
-> <font color="red">*Abril 2 de 2015*: No hay clase (semana santa)
+> <font color="red">*Abril 2 de 2015*: No hay clase (semana santa)</font>
 
 
 ####Parte 3 Producción
