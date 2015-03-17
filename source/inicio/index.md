@@ -49,27 +49,25 @@ Igualmente, en este sitio web se encontraran las [presentaciones](/presentacione
 
 > Sesión 10: *Marzo 10 de 2015*
 
+-Sesión 11: Taller guion (Por Mateo Rojas y Oscar Andrade)
+
 > Sesión 11: *Marzo 12 de 2015*
 
--Sesión 12: Taller guion (Por Mateo Rojas y Oscar Andrade)
+-Sesión 12: Taller de Mecánica de juego (Por Mateo Rojas)
 
 > Sesión 12: *Marzo 17 de 2015*
 
--Sesiones 13 a 14: Mecánica de juego (Por Mateo Rojas)
+-Sesiones 13 a 15: Introducción a unity (Por John Higuera)
 
 > Sesión 13: *Marzo 19 de 2015*
 
--Sesiones 14 a 16: Introducción a unity (Por John Higuera)
+> Sesión 14: *Marzo 24 de 2015*
 
-> Sesión 14: *Marzo 19 de 2015*
-
-> Sesión 15: *Marzo 24 de 2015*
-
-> Sesión 16: *Marzo 26 de 2015*
+> Sesión 15: *Marzo 26 de 2015*
 
 > <font color="red">*Marzo 31 de 2015*: No hay clase (semana santa)</font>
 
-> <font color="red">*Abril 2 de 2015*: No hay clase (semana santa</font>)
+> <font color="red">*Abril 2 de 2015*: No hay clase (semana santa)
 
 
 ####Parte 3 Producción
