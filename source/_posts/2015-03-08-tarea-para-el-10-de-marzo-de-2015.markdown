@@ -5,9 +5,11 @@ date: 2015-03-08 19:09:22 -0500
 comments: true
 categories: 
 ---
-La siguiente es la tarea dejada por el profesor Oscar Andrade y que se debe presentar el próximo martes 10 de marzo. Como guía para su elaboración, se puede ver en línea [la presentación de la clase](http://videojuegosun.github.io/RulesArt) correspondiente, en la que se analizan los elementos que  se listan a continuación.
+<img height="200" width="300" style="float: right;" src="/images/tareas.jpg" />La siguiente es la tarea dejada por el profesor Oscar Andrade y que se debe presentar el próximo martes 10 de marzo. Como guía para su elaboración, se puede ver en línea [la presentación de la clase](http://videojuegosun.github.io/RulesArt) correspondiente, en la que se analizan los elementos que  se listan a continuación.
+<!--more-->
 
-<img style="float: right;" src="/images/tareas.jpg" />La tarea es escoger UNO SOLO de los siguientes elementos artísticos:
+
+La tarea es escoger UNO SOLO de los siguientes elementos artísticos:
 
  [Espacio](http://videojuegosun.github.io/RulesArt/#/5)
  
