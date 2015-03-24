@@ -20,3 +20,5 @@ En esta sección se encontrarán las presentaciones online correspondientes a ca
 **[6. Presentación User Experience (Watch Online)](http://videojuegosun.github.io/UserExperience/)** Presentación de la clase del Profesor Mateo Rojas del 3 de Marzo de 2015.
 
 **[7. Presentación Las reglas del arte (Watch Online)](http://videojuegosun.github.io/RulesArt/)** Presentación de la clase del Profesor Oscar Andrade del 5 de Marzo de 2015.
+
+**[8. Presentación Narrativa vs. Ludología (Watch Online)](http://videojuegosun.github.io/Narrative-Ludology/)** Presentación de la clase del Profesor Oscar Andrade del 10 de Marzo de 2015.

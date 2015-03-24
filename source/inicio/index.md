@@ -47,15 +47,15 @@ Igualmente, en este sitio web se encontraran las [presentaciones](/presentacione
 
 > [Sesión 9: *Marzo 5 de 2015*](http://videojuegosun.github.io/RulesArt/)
 
-> Sesión 10: *Marzo 10 de 2015*
+> [Sesión 10: *Marzo 10 de 2015*](http://videojuegosun.github.io/Narrative-Ludology/)
 
--Sesión 11: Taller guion (**Por Mateo Rojas y Oscar Andrade**)
+-Sesión 11: Taller de Ciclo de mandate (**Por Mateo Rojas y Oscar Andrade**)
 
-> Sesión 11: *Marzo 12 de 2015*
+> [Sesión 11: *Marzo 12 de 2015*](/blog/2015/03/23/taller-de-ciclo-de-mandate-slash-meaning-por-los-profesores-mateo-rojas-y-oscar-andrade/)
 
 -Sesión 12: Taller de Mecánica de juego (**Por Mateo Rojas**)
 
-> Sesión 12: *Marzo 17 de 2015*
+> [Sesión 12: *Marzo 17 de 2015*](blog/2015/03/23/taller-de-mecanica-de-juego-por-el-profesor-mateo-rojas/)
 
 -Sesiones 13 a 15: Introducción a unity (**Por John Higuera**)
 

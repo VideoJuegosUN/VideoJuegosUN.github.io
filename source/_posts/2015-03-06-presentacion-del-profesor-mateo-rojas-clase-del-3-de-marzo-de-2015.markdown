@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Presentación del profesor Mateo Rojas (clase del 3 de Marzo de 2015)"
+title: "Experiencia de Usuario (Presentación del profesor Mateo Rojas)"
 date: 2015-03-06 03:15:05 -0500
 comments: true
 categories: 

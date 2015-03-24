@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Presentación del profesor Mateo Rojas (clase del 26 de febrero de 2015)"
+title: "Diseño de videojuegos parte 2 (Presentación del profesor Mateo Rojas)"
 date: 2015-02-27 22:20:18 -0500
 comments: true
 categories: 

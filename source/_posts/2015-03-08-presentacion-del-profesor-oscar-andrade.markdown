@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Presentación del profesor Oscar Andrade (clase del 5 de Marzo de 2015)"
+title: "Las reglas del Arte (Presentación del profesor Oscar Andrade)"
 date: 2015-03-08 17:41:35 -0500
 comments: true
 categories: 
