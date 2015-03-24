@@ -4,7 +4,7 @@
   <title><![CDATA[Desarrollo de Videojuegos]]></title>
   <link href="http://videojuegosun.github.io/atom.xml" rel="self"/>
   <link href="http://videojuegosun.github.io/"/>
-  <updated>2015-03-23T20:33:56-05:00</updated>
+  <updated>2015-03-23T23:49:45-05:00</updated>
   <id>http://videojuegosun.github.io/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -12,6 +12,192 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Taller De Mecánica De Juego (Por El Profesor Mateo Rojas)]]></title>
+    <link href="http://videojuegosun.github.io/blog/2015/03/23/taller-de-mecanica-de-juego-por-el-profesor-mateo-rojas/"/>
+    <updated>2015-03-23T22:59:28-05:00</updated>
+    <id>http://videojuegosun.github.io/blog/2015/03/23/taller-de-mecanica-de-juego-por-el-profesor-mateo-rojas</id>
+    <content type="html"><![CDATA[<p><img height="400" width="500" style="float: right;" src="http://videojuegosun.github.io/images/tallerparte4.JPG" /></p>
+
+<p>Comenzamos la sesión terminando el ejercicio de encontrar el perfil de placer al que cada grupo quiere dirigir su proyecto.</p>
+
+<p><strong>1.a)</strong> Una vez terminado dicho ejercicio, cada integrante de cada grupo toma un post ­it,
+y escribe en éste tres actividades que, a su parecer, hace una persona que se encuentre
+dentro del perfil de placer seleccionado para el proyecto, y que precisamente las hace porque experimenta placer al
+hacerlas.</p>
+
+<!--more-->
+
+
+<p>Ejemplo, sí el grupo objetivo para el proyecto se encuentra en el perfil de
+AGON, las personas podrían escribir actividades como el boxeo, el fútbol americano o
+un juego tipo FPS multijugador. Esta actividad es personal (15 minutos).</p>
+
+<p><strong>b.</strong> Cada integrante del grupo tiene 3 minutos para socializar las actividades que
+escribió en su papel. Se colocan los diferentes papeles en la cartelera, y, en caso de
+encontrar que varias personas escribieron una misma actividad, dicha actividad se
+prioriza en la lista.</p>
+
+<center>
+<img height="400" width="500" style="float: center;" src="http://videojuegosun.github.io/images/tallerparte5.jpg" /> 
+</center>
+
+
+<p></p>
+
+<p>Fig 01. Los integrantes de cada grupo encuentran un espacio para pensar y redactar sus propuestas.</p>
+
+<center>
+<img height="400" width="500" style="float: center;" src="http://videojuegosun.github.io/images/tallerparte6.JPG" /> 
+</center>
+
+
+<p></p>
+
+<p>Fig 02. Posteriormente se reúnen, socializan sus ideas, encuentran puntos comunes y priorizan las ideas similares que propusieron.</p>
+
+<p>Antes de comenzar con el siguiente ejercicio hacemos un recuento del ciclo de alto nivel, y se
+informa a los estudiantes que el siguiente ejercicio va a concentrarse en encontrar una
+mecánica de juego base que pueda replicarse y ampliarse en la propuesta de videojuego de
+cada uno. Adicionalmente, se les pide que repasen y compartan el mandate propuesto por
+cada grupo para sus respectivos proyectos.</p>
+
+<p><strong>2.a)</strong> Se pide a los integrantes de cada grupo que tomen un post­it nuevamente, En este,
+cada uno debe escribir tres actividades específicas que creen conveniente realicen los
+jugadores de sus videojuegos cuando se encuentren jugando los mismos. (Ejemplo, el<br/>
+jugador tiene la posibilidad de elegir las paradas de una ruta del sistema de transporte
+masivo. Por cada parada que acierte, el jugador recibe una bonificación). Los
+estudiantes tienen 15 minutos para llevar a cabo la actividad.</p>
+
+<p><strong>b)</strong> Cada integrante de los grupos tiene 3 minutos para socializar sus ideas a su equipo
+de trabajo.</p>
+
+<p><strong>c)</strong> A cada integrante del grupo se le otorgan 2 puntos. Cada integrante pasa y vota
+por una de las ideas, o por alguno de los puntos de la idea. Expone frente al grupo
+porqué votó por esa idea. (3 minutos por persona, 10 máximo.)
+d. Se dan 10 minutos por grupo para que consoliden una mecánica de juego teniendo
+en cuenta las ideas que propuso cada integrante, y las que más votos obtuvieron.</p>
+
+<p>La actividad termina con algunos de los grupos compartiendo a toda la clase las ideas
+de mecánicas de juego a las que llegaron por medio del ejercicio grupal, haciendo una
+relación entre las mismas y el mandate que previamente habían preparado.</p>
+
+<p>Se explica que la propuesta de las dos sesiones de taller tiene como objetivo mostrar al
+grupo que existen una serie de dinámicas para trabajar en equipo, partiendo del principio de
+inteligencia colectiva, bajo el cual, cualquier idea propuesta por un grupo de personas puede
+tener un mayor valor al propuesto por una de ellas.</p>
+
+<p>De la misma manera, se recalca el hecho de que la validación de las ideas debe darse en tres pasos:</p>
+
+<p><strong>Paso 1.</strong> Que la idea propuesta no vaya en contra del mandate del proyecto.</p>
+
+<p><strong>Paso 2.</strong> Que la idea propuesta sea validada y fortalecida por todos los miembros del equipo, y</p>
+
+<p><strong>Paso 3.</strong> Que la idea propuesta pase por una etapa de validación directamente con los usuarios, y, claro está, que haya surgido de estar pensando en
+esos usuarios desde un comienzo.</p>
+
+<p>Es importante recalcar también que el ejercicio de
+pensar previamente en actividades comunes de las personas dentro del perfil de placer
+elegido, tiene como fin enfocar la mente de los miembros del equipo a una
+sesión de ideación que ya esté dentro del marco de los usuarios finales.</p>
+
+<p>Finalmente, se sugiere a los estudiantes buscar bibliografía adicional sobre​  Diseño Centrado
+en el Usuario​  y, especialmente, sobre la metodología de trabajo de ​ <strong>Lean Manufacturing</strong>,​  bajo
+la que se propone un esquema de crecimiento del producto iterativo, validando cada idea
+independientemente, y evitando así construir sobre una serie de ideas sin que estas hayan
+sido validadas por el usuario.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Taller De Ciclo De Mandate / Meaning (Por Los Profesores Mateo Rojas Y Oscar Andrade)]]></title>
+    <link href="http://videojuegosun.github.io/blog/2015/03/23/taller-de-ciclo-de-mandate-slash-meaning-por-los-profesores-mateo-rojas-y-oscar-andrade/"/>
+    <updated>2015-03-23T22:08:33-05:00</updated>
+    <id>http://videojuegosun.github.io/blog/2015/03/23/taller-de-ciclo-de-mandate-slash-meaning-por-los-profesores-mateo-rojas-y-oscar-andrade</id>
+    <content type="html"><![CDATA[<p><img height="400" width="500" style="float: right;" src="http://videojuegosun.github.io/images/tallerparte1.JPG" /></p>
+
+<p><strong>Ejercicio de ideación por grupos: </strong></p>
+
+<p><strong>1.</strong>Se arman las parejas.</p>
+
+<p><strong>a)</strong> La persona A propone una idea de negocio a la persona B.</p>
+
+<p><strong>b)</strong> La persona B le dice a la A que <em>no</em> a la idea, y le da una razón de por qué <em>no</em>.</p>
+
+<p>Para lo anterior, se cuenta con 3 minutos por cada paso.</p>
+
+<p>Ahora, la pareja debe hacer la siguiente dinámica:</p>
+
+<!--more-->
+
+
+<p><strong>a)</strong> La persona B propone una idea de negocio a la persona A.</p>
+
+<p><strong>b)</strong> La persona A toma la idea, y la enriquece con otra idea para la persona B.</p>
+
+<p>También se cuenta con 3 minutos por cada paso.</p>
+
+<p>La finalidad del ejercicio está en comprobar la importancia de enriquecer una idea, en lugar
+de destruirla. Este ejercicio funciona como punto de partida para que todos en el grupo
+entendamos que debemos comenzar con una postura de crear conjuntamente, y no ser
+negativos ante la propuesta de una idea. Repetimos el ejercicio 1 de ideación una vez con las personas que se animen a hacerlo frente a todo el grupo.</p>
+
+<p><strong>2.</strong> Por los grupos de los proyectos:</p>
+
+<center>
+<img height="400" width="500" style="float: center;" src="http://videojuegosun.github.io/images/tallerparte2.JPG" /> 
+</center>
+
+
+<p>
+<strong>a)</strong> Cada integrante toma un post­it, escribe el <a href="http://videojuegosun.github.io/Design2/#/11">mandate</a> del proyecto que están desarrollando en el grupo. (5 minutos).</p>
+
+<p><strong>b)</strong> Las personas pasan al tablero y exponen su idea a los miembros del grupo. (3 minutos
+por persona, 10 máximo.)</p>
+
+<p><strong>c)</strong> A cada integrante del grupo se le otorgan 2 puntos. Cada integrante pasa y vota por
+una de las ideas, o por alguno de los puntos de la idea. Expone frente al grupo por qué
+votó por esa idea. (3 minutos por persona, 10 máximo.)</p>
+
+<p><strong>d)</strong> El grupo se reúne y trabajan en escribir en un nuevo post­it con una idea grupal,<br/>
+teniendo en cuenta los puntos que tuvieron más votos. (10 minutos).</p>
+
+<p>­Repetimos el proceso con el <a href="http://videojuegosun.github.io/Design2/#/12">meaning</a> del juego.</p>
+
+<p>Hacemos el cuadro de los 4 diferentes tipos de jugadores por placer <a href="http://videojuegosun.github.io/Design2/#/7">Agon, Mimicry, Alea, Ilinx</a>. Cada integrante del grupo ubica un punto en el lugar del target en el que cree se encontraría su juego y explica por qué.(10 minutos). Se encuentran zonas comunes y se llega a un consenso.</p>
+
+<center> 
+<img height="300" width="250" src="http://videojuegosun.github.io/images/tallerparte3.JPG" />
+</center>
+
+
+<p></p>
+
+<p>Fig 01. Cada grupo termina la primera sesión con una cartelera similar a la de la imagen,
+con las versiones del mandate, el mandate final, y un cuadro con los diferentes tipos de perfiles de placer y el target  para el proyecto.</p>
+
+<p>Se explica al cierre del ejercicio que el siguiente paso es encontrar la mecánica de juego.<br/>
+Ahora, basados en el mandate, vamos a trabajar en una mecánica similar de prototipado en papel<br/>
+para encontrar el ciclo de juego.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Narrativa vs Ludología (Presentación Del Profesor Oscar Andrade)]]></title>
+    <link href="http://videojuegosun.github.io/blog/2015/03/23/presentacion-del-profesor-oscar-andrade-narrativa-vs-ludologia/"/>
+    <updated>2015-03-23T20:37:17-05:00</updated>
+    <id>http://videojuegosun.github.io/blog/2015/03/23/presentacion-del-profesor-oscar-andrade-narrativa-vs-ludologia</id>
+    <content type="html"><![CDATA[<p><img height="200" width="300" style="float: left;" src="http://videojuegosun.github.io/images/monsters.jpg" /> En esta <a href="http://videojuegosun.github.io/Narrative-Ludology/">presentación</a> el profesor Oscar Andrade aborda los distintos aspectos relacionados tanto con la narrativa como con la ludología.</p>
+
+<!--more-->
+
+
+<p>Para esto, brinda un recorrido por los elementos técnicos fiundamentales, planteando siempre la distinción entre linealidad e interactividad.</p>
+
+<p>Finalmente, muestra unos ejemplos muy dicientes que clarifican todos los conceptos abordados durante la clase, permitiendo tener un panorama muy puntual de los mismos.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Tarea Para El 10 De Marzo De 2015]]></title>
@@ -39,14 +225,14 @@
 
 <p>Y analizar un videojuego a la luz de ese elemento. El análisis debe tener al menos 2 páginas: 1 página de texto en donde esté el análisis conceptual, y 1 página de análisis de imágenes (acotaciones de texto sobre las imágenes que expliqen los conceptos expuestos en la primera página). Al menos debe haber 1 enlace a un gameplay en video.</p>
 
-<p>Nota: La tarea debe ser enviada antes de la clase al correo <a href="&#x6d;&#x61;&#x69;&#x6c;&#x74;&#111;&#x3a;&#111;&#x73;&#x63;&#x61;&#x72;&#x2e;&#97;&#110;&#x64;&#x72;&#x61;&#x64;&#101;&#x40;&#x6a;&#x61;&#x67;&#117;&#x61;&#114;&#x2e;&#x63;&#x6f;&#x6d;&#46;&#x63;&#x6f;">&#x6f;&#115;&#x63;&#97;&#114;&#46;&#x61;&#x6e;&#x64;&#114;&#97;&#x64;&#x65;&#x40;&#106;&#97;&#x67;&#x75;&#97;&#x72;&#x2e;&#99;&#111;&#x6d;&#x2e;&#x63;&#x6f;</a> con copia a <a href="&#x6d;&#x61;&#105;&#108;&#116;&#111;&#x3a;&#103;&#102;&#x6d;&#x6f;&#114;&#97;&#x74;&#64;&#x75;&#110;&#x61;&#108;&#46;&#x65;&#x64;&#117;&#46;&#99;&#111;">&#103;&#102;&#109;&#x6f;&#x72;&#x61;&#116;&#x40;&#x75;&#110;&#x61;&#108;&#46;&#x65;&#x64;&#x75;&#x2e;&#x63;&#111;</a></p>
+<p>Nota: La tarea debe ser enviada antes de la clase al correo <a href="&#109;&#x61;&#105;&#x6c;&#x74;&#111;&#x3a;&#111;&#x73;&#x63;&#x61;&#114;&#46;&#x61;&#x6e;&#x64;&#114;&#x61;&#100;&#x65;&#x40;&#x6a;&#x61;&#103;&#117;&#97;&#114;&#46;&#99;&#111;&#x6d;&#46;&#99;&#x6f;">&#x6f;&#x73;&#x63;&#97;&#114;&#46;&#x61;&#x6e;&#100;&#x72;&#97;&#100;&#101;&#64;&#x6a;&#x61;&#103;&#117;&#97;&#x72;&#x2e;&#x63;&#x6f;&#x6d;&#x2e;&#x63;&#x6f;</a> con copia a <a href="&#109;&#x61;&#x69;&#x6c;&#116;&#x6f;&#58;&#103;&#x66;&#109;&#111;&#114;&#x61;&#x74;&#x40;&#x75;&#110;&#x61;&#108;&#x2e;&#x65;&#x64;&#x75;&#46;&#99;&#111;">&#103;&#x66;&#x6d;&#x6f;&#114;&#x61;&#x74;&#64;&#117;&#x6e;&#x61;&#108;&#46;&#101;&#x64;&#117;&#46;&#99;&#x6f;</a></p>
 
 <p>Por Oscar Andrade.</p>
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Presentación Del Profesor Oscar Andrade (Clase Del 5 De Marzo De 2015)]]></title>
+    <title type="html"><![CDATA[Las Reglas Del Arte (Presentación Del Profesor Oscar Andrade)]]></title>
     <link href="http://videojuegosun.github.io/blog/2015/03/08/presentacion-del-profesor-oscar-andrade/"/>
     <updated>2015-03-08T17:41:35-05:00</updated>
     <id>http://videojuegosun.github.io/blog/2015/03/08/presentacion-del-profesor-oscar-andrade</id>
@@ -57,7 +243,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Presentación Del Profesor Mateo Rojas (Clase Del 3 De Marzo De 2015)]]></title>
+    <title type="html"><![CDATA[Experiencia De Usuario (Presentación Del Profesor Mateo Rojas)]]></title>
     <link href="http://videojuegosun.github.io/blog/2015/03/06/presentacion-del-profesor-mateo-rojas-clase-del-3-de-marzo-de-2015/"/>
     <updated>2015-03-06T03:15:05-05:00</updated>
     <id>http://videojuegosun.github.io/blog/2015/03/06/presentacion-del-profesor-mateo-rojas-clase-del-3-de-marzo-de-2015</id>
@@ -66,7 +252,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Presentación Del Profesor Mateo Rojas (Clase Del 26 De Febrero De 2015)]]></title>
+    <title type="html"><![CDATA[Diseño De Videojuegos Parte 2 (Presentación Del Profesor Mateo Rojas)]]></title>
     <link href="http://videojuegosun.github.io/blog/2015/02/27/presentacion-del-profesor-mateo-rojas-clase-del-26-de-febrero-de-2015/"/>
     <updated>2015-02-27T22:20:18-05:00</updated>
     <id>http://videojuegosun.github.io/blog/2015/02/27/presentacion-del-profesor-mateo-rojas-clase-del-26-de-febrero-de-2015</id>
@@ -75,7 +261,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Apuntes De La Clase Del Profesor John Higuera Del 24 De Febrero De 2015]]></title>
+    <title type="html"><![CDATA[Workflow Parte 2 (Apuntes De La Clase Del Profesor John Higuera)]]></title>
     <link href="http://videojuegosun.github.io/blog/2015/02/27/apuntes-de-la-clase-del-profesor-john-higuera-del-24-de-febrero-de-2015/"/>
     <updated>2015-02-27T20:16:30-05:00</updated>
     <id>http://videojuegosun.github.io/blog/2015/02/27/apuntes-de-la-clase-del-profesor-john-higuera-del-24-de-febrero-de-2015</id>
@@ -84,7 +270,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Apuntes De La Clase Del Profesor John Higuera Del 19 De Febrero De 2015]]></title>
+    <title type="html"><![CDATA[Workflow Parte 1 (Apuntes De La Clase Del Profesor John Higuera)]]></title>
     <link href="http://videojuegosun.github.io/blog/2015/02/27/apuntes-de-la-clase-del-19-de-febrero-de-2015-dada-por-el-profesor-john-higuera/"/>
     <updated>2015-02-27T12:48:53-05:00</updated>
     <id>http://videojuegosun.github.io/blog/2015/02/27/apuntes-de-la-clase-del-19-de-febrero-de-2015-dada-por-el-profesor-john-higuera</id>
@@ -93,11 +279,20 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Presentaciones De clase(Por El Profesor John Higuera)]]></title>
-    <link href="http://videojuegosun.github.io/blog/2015/02/18/presentaciones-de-clase-por-el-profesor-john-higuera/"/>
+    <title type="html"><![CDATA[Comunicación Desde Los Videojuegos (Presentacion Del Profesor John Higuera)]]></title>
+    <link href="http://videojuegosun.github.io/blog/2015/02/18/comunicacion-desde-los-videojuegos/"/>
     <updated>2015-02-18T16:23:34-05:00</updated>
-    <id>http://videojuegosun.github.io/blog/2015/02/18/presentaciones-de-clase-por-el-profesor-john-higuera</id>
-    <content type="html"><![CDATA[<p>En la sección de <strong><a href="http://videojuegosun.github.io/presentaciones">Presentaciones</a></strong> ya se encuentran las presentaciones  (presentación <a href="http://videojuegosun.github.io/Design/">1</a> y <a href="http://videojuegosun.github.io/Communication/">2</a>) de las sesiones de clase dadas hasta el momento por el profesor John Higuera, las cuales pueden ser vistas en línea.</p>
+    <id>http://videojuegosun.github.io/blog/2015/02/18/comunicacion-desde-los-videojuegos</id>
+    <content type="html"><![CDATA[<p>En la sección <strong><a href="http://videojuegosun.github.io/presentaciones">Presentaciones</a></strong> ya se encuentra la <a href="http://videojuegosun.github.io/Communication/">presentación 2</a>) de la sesion de clase dada por el profesor John Higuera sobre la Comunicación desde los videojuegos, la cual puede ser vista en línea.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Diseño De Videojuegos Parte 1 (Presentación Del Profesor John Higuera)]]></title>
+    <link href="http://videojuegosun.github.io/blog/2015/02/18/disenio-de-videojuegos-parte-1/"/>
+    <updated>2015-02-18T16:20:34-05:00</updated>
+    <id>http://videojuegosun.github.io/blog/2015/02/18/disenio-de-videojuegos-parte-1</id>
+    <content type="html"><![CDATA[<p>Ya se encuentra disponible la <a href="http://videojuegosun.github.io/Design/">presentación 1</a> sobre Diseño de videojuegos realizada por el profesor John Higuera, la cual se puede visualizar en línea.</p>
 ]]></content>
   </entry>
   
@@ -115,7 +310,34 @@
     <link href="http://videojuegosun.github.io/blog/2015/02/18/primeros-10-tutoriales-a-realizar-por-el-profesor-john-higuera/"/>
     <updated>2015-02-18T11:31:31-05:00</updated>
     <id>http://videojuegosun.github.io/blog/2015/02/18/primeros-10-tutoriales-a-realizar-por-el-profesor-john-higuera</id>
-    <content type="html"><![CDATA[<p>En la sección <a href="http://videojuegosun.github.io/tutoriales">Tutoriales</a> se listan los 10 primeros video tutoriales que deben realizar para poder completar el primer ejercicio en clase que será nota.</p>
+    <content type="html"><![CDATA[<p>A continuación se listan los 10 primeros video tutoriales que deben realizar para poder completar el primer ejercicio en clase que será nota.</p>
+
+<!--more-->
+
+
+<p>1.<a href="https://unity3d.com/learn/tutorials/modules/beginner/editor/interface-overview">Interface Overview</a></p>
+
+<p> 2.<a href="https://unity3d.com/learn/tutorials/modules/beginner/editor/the-scene-view">The Scene View</a></p>
+
+<p> 3.<a href="https://unity3d.com/learn/tutorials/modules/beginner/editor/the-scene-view">The Game View</a></p>
+
+<p> 4.<a href="https://unity3d.com/learn/tutorials/modules/beginner/editor/the-hierarchy-and-parent-child-relationships">The Hierarchy and Parent-Child relationships</a></p>
+
+<p> 5.<a href="https://unity3d.com/learn/tutorials/modules/beginner/editor/project-panel-and-importing">The Project Panel and Importing</a></p>
+
+<p> 6.<a href="https://unity3d.com/learn/tutorials/modules/beginner/editor/the-inspector">The Inspector</a></p>
+
+<p> 7.<a href="https://unity3d.com/learn/tutorials/modules/beginner/editor/the-inspector">Game Objects and Components</a></p>
+
+<p> 8.<a href="https://unity3d.com/learn/tutorials/modules/beginner/editor/tags">Tags</a></p>
+
+<p> 9.<a href="https://unity3d.com/learn/tutorials/modules/beginner/editor/tags">Prefabs - Concept &amp; Usage</a></p>
+
+<p> 10.<a href="https://unity3d.com/learn/tutorials/modules/beginner/editor/build-player-settings">Build and Player Settings</a></p>
+
+<p>Si desea practicar más, puede ingresar al siguiente link donde se encuentran los video tutoriales tanto del nivel de principiante (los 10 anteriores) como del nivel intermedio para el manejo de Unity 3D:</p>
+
+<p><a href="https://unity3d.com/learn/tutorials/modules/beginner/editor">Video tutoriales</a></p>
 ]]></content>
   </entry>
   
