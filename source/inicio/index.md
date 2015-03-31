@@ -55,7 +55,7 @@ Igualmente, en este sitio web se encontraran las [presentaciones](/presentacione
 
 -Sesión 12: Taller de Mecánica de juego (**Por Mateo Rojas**)
 
-> [Sesión 12: *Marzo 17 de 2015*](blog/2015/03/23/taller-de-mecanica-de-juego-por-el-profesor-mateo-rojas/)
+> [Sesión 12: *Marzo 17 de 2015*](/blog/2015/03/23/taller-de-mecanica-de-juego-por-el-profesor-mateo-rojas/)
 
 -Sesiones 13 a 15: Introducción a unity (**Por John Higuera**)
 
