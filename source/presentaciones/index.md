@@ -9,7 +9,7 @@ En esta sección se encontrarán las presentaciones online correspondientes a ca
 
 **[1. Presentación Historia de los Videojuegos (Ver en línea)](http://videojuegosun.github.io/Design/)** Por el profesor John Higuera. Febrero 5 y 12 de 2015. 
 
-**[2. Presentation Communication from Video Games (Watch Online)](http://videojuegosun.github.io/Communication/)** Por el profesor John Higuera. Febrero 17 de 2015. 
+**[2. Presentation Comunicación desde los Videojuegos (Ver en línea)](http://videojuegosun.github.io/Communication/)** Por el profesor John Higuera. Febrero 17 de 2015. 
 
 **[3. Presentación Workflow (Watch Online)](http://videojuegosun.github.io/Workflow)** Apuntes tomados de la clase del Profesor John Higuera del 19 de Febrero de 2015.
 
