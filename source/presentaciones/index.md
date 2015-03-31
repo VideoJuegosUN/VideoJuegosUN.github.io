@@ -7,7 +7,7 @@ title:
 En esta sección se encontrarán las presentaciones online correspondientes a cada sesión de clase. 
 - - - 
 
-**[1. Presentation Design Video Games (Watch Online)](http://videojuegosun.github.io/Design/)** Por el profesor John Higuera. Febrero 5 y 12 de 2015. 
+**[1. Presentación Historia de los Videojuegos (Ver en línea)](http://videojuegosun.github.io/Design/)** Por el profesor John Higuera. Febrero 5 y 12 de 2015. 
 
 **[2. Presentation Communication from Video Games (Watch Online)](http://videojuegosun.github.io/Communication/)** Por el profesor John Higuera. Febrero 17 de 2015. 
 
