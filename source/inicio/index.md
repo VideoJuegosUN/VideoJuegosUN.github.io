@@ -78,7 +78,7 @@ Igualmente, en este sitio web se encontraran las [presentaciones](/presentacione
 
 > Sesión 17: *Abril 9 de 2015*
 
-> Sesión 18: *Abril 14 de 2015*
+> [Sesión 18: *Abril 14 de 2015*](/blog/2015/04/14/sesion-1-de-blender/)
 
 > Sesión 19: *Abril 16 de 2015*
 
