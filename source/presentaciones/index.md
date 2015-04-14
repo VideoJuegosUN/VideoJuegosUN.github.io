@@ -23,8 +23,8 @@ En esta sección se encontrarán las presentaciones online correspondientes a ca
 
 **[8. Presentación Narrativa vs. Ludología (Ver en línea)](http://videojuegosun.github.io/Narrative-Ludology/)** Presentación de la clase del Profesor Oscar Andrade del 10 de Marzo de 2015.
 
-**[9. Presentación sobre Jiggy Drama La Fuga](http://franchescomora.github.io/casoJiggy/#/1)**Presenación del profesor John Higuera sobre el caso Jiggy Drama La Fuga del 19 de Marzo de 2015.
+**[9. Presentación sobre Jiggy Drama La Fuga (Ver en línea)](http://videojuegosun.github.io/caso_Jiggy/#/1)**Presenación del profesor John Higuera sobre el caso Jiggy Drama La Fuga del 19 de Marzo de 2015.
 
-**[9. Presentación sobre Croanak](http://videojuegosun.github.io/casoCroanak/#/1)**Presenación del profesor John Higuera sobre el caso Croanak del 19 de Marzo de 2015.
+**[10. Presentación sobre Croanak (Ver en línea)](http://videojuegosun.github.io/casoCroanak/#/1)**Presenación del profesor John Higuera sobre el caso Croanak del 19 de Marzo de 2015.
 
 **[11. Presentación de Shaders (Ver en línea)](http://videojuegosun.github.io/Shaders/#/1)** Presentación de la clase del Profesor Jean Pierre Charalambos del 7 de Abril de 2015
