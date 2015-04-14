@@ -74,7 +74,7 @@ Igualmente, en este sitio web se encontraran las [presentaciones](/presentacione
 
 -Sesiones 16 a 20: Fundamentos de cg, motores, shaders y modelado (**Por Alexander Pinzón y Jean Pierre Charalambos**)
 
-> Sesión 16: *Abril 7 de 2015*
+> [Sesión 16: *Abril 7 de 2015*](http://videojuegosun.github.io/Shaders/#/1)
 
 > Sesión 17: *Abril 9 de 2015*
 

@@ -22,3 +22,5 @@ En esta sección se encontrarán las presentaciones online correspondientes a ca
 **[7. Presentación Las reglas del arte (Ver en línea)](http://videojuegosun.github.io/RulesArt/)** Presentación de la clase del Profesor Oscar Andrade del 5 de Marzo de 2015.
 
 **[8. Presentación Narrativa vs. Ludología (Ver en línea)](http://videojuegosun.github.io/Narrative-Ludology/)** Presentación de la clase del Profesor Oscar Andrade del 10 de Marzo de 2015.
+
+**[9. Presentación de Shaders (Ver en línea)](http://videojuegosun.github.io/Shaders/#/1)** Presentación de la clase del Profesor Jean Pierre Charalambos del 7 de Abril de 2015
