@@ -59,7 +59,7 @@ Igualmente, en este sitio web se encontraran las [presentaciones](/presentacione
 
 -Sesiones 13 a 15: Introducción a unity (**Por John Higuera**)
 
-> Sesión 13: *Marzo 19 de 2015*
+> [Sesión 13: *Marzo 19 de 2015*](/blog/2015/03/19/casos-de-estudio-croanak-y-jiggy-drama-la-fuga/)
 
 > Sesión 14: *Marzo 24 de 2015*
 
