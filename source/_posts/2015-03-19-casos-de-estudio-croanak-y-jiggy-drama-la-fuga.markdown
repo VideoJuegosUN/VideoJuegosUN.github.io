@@ -13,6 +13,8 @@ A continuación se muestra el vídeo correspondiente al caso Croanak y la presen
 
 ###Presentación del caso Croanak:
 
+[Presentación sobre Croanak](http://videojuegosun.github.io/casoCroanak/#/1)
+
 
 ###Presentación del caso Jiggy Drama La Fuga:
 
