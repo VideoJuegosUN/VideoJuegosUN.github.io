@@ -4,7 +4,7 @@
   <title><![CDATA[Desarrollo de Videojuegos]]></title>
   <link href="http://videojuegosun.github.io/atom.xml" rel="self"/>
   <link href="http://videojuegosun.github.io/"/>
-  <updated>2015-04-14T08:37:40-05:00</updated>
+  <updated>2015-04-14T09:02:17-05:00</updated>
   <id>http://videojuegosun.github.io/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -34,10 +34,25 @@
   </entry>
   
   <entry>
+    <title type="html"><![CDATA[Casos De Estudio: Croanak Y Jiggy Drama La Fuga]]></title>
+    <link href="http://videojuegosun.github.io/blog/2015/03/19/casos-de-estudio-croanak-y-jiggy-drama-la-fuga/"/>
+    <updated>2015-03-19T08:42:11-05:00</updated>
+    <id>http://videojuegosun.github.io/blog/2015/03/19/casos-de-estudio-croanak-y-jiggy-drama-la-fuga</id>
+    <content type="html"><![CDATA[<p>A continuación se muestra el vídeo sobre Croanak:</p>
+
+<!--more-->
+
+
+<iframe width="750" height="500" src="https://www.youtube.com/embed/DLjJvkEkknc" frameborder="0" allowfullscreen></iframe>
+
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Taller De Mecánica De Juego (Por El Profesor Mateo Rojas)]]></title>
-    <link href="http://videojuegosun.github.io/blog/2015/03/23/taller-de-mecanica-de-juego-por-el-profesor-mateo-rojas/"/>
-    <updated>2015-03-23T22:59:28-05:00</updated>
-    <id>http://videojuegosun.github.io/blog/2015/03/23/taller-de-mecanica-de-juego-por-el-profesor-mateo-rojas</id>
+    <link href="http://videojuegosun.github.io/blog/2015/03/17/taller-de-mecanica-de-juego-por-el-profesor-mateo-rojas/"/>
+    <updated>2015-03-17T22:59:28-05:00</updated>
+    <id>http://videojuegosun.github.io/blog/2015/03/17/taller-de-mecanica-de-juego-por-el-profesor-mateo-rojas</id>
     <content type="html"><![CDATA[<p><img height="400" width="500" style="float: right;" src="http://videojuegosun.github.io/images/tallerparte4.JPG" /></p>
 
 <p>Comenzamos la sesión terminando el ejercicio de encontrar el perfil de placer al que cada grupo quiere dirigir su proyecto.</p>
@@ -132,9 +147,9 @@ sido validadas por el usuario.</p>
   
   <entry>
     <title type="html"><![CDATA[Taller De Ciclo De Mandate / Meaning (Por Los Profesores Mateo Rojas Y Oscar Andrade)]]></title>
-    <link href="http://videojuegosun.github.io/blog/2015/03/23/taller-de-ciclo-de-mandate-slash-meaning-por-los-profesores-mateo-rojas-y-oscar-andrade/"/>
-    <updated>2015-03-23T22:08:33-05:00</updated>
-    <id>http://videojuegosun.github.io/blog/2015/03/23/taller-de-ciclo-de-mandate-slash-meaning-por-los-profesores-mateo-rojas-y-oscar-andrade</id>
+    <link href="http://videojuegosun.github.io/blog/2015/03/12/taller-de-ciclo-de-mandate-slash-meaning-por-los-profesores-mateo-rojas-y-oscar-andrade/"/>
+    <updated>2015-03-12T22:08:33-05:00</updated>
+    <id>http://videojuegosun.github.io/blog/2015/03/12/taller-de-ciclo-de-mandate-slash-meaning-por-los-profesores-mateo-rojas-y-oscar-andrade</id>
     <content type="html"><![CDATA[<p><img height="400" width="500" style="float: right;" src="http://videojuegosun.github.io/images/tallerparte1.JPG" /></p>
 
 <p><strong>Ejercicio de ideación por grupos: </strong></p>
@@ -205,9 +220,9 @@ para encontrar el ciclo de juego.</p>
   
   <entry>
     <title type="html"><![CDATA[Narrativa vs Ludología (Presentación Del Profesor Oscar Andrade)]]></title>
-    <link href="http://videojuegosun.github.io/blog/2015/03/23/presentacion-del-profesor-oscar-andrade-narrativa-vs-ludologia/"/>
-    <updated>2015-03-23T20:37:17-05:00</updated>
-    <id>http://videojuegosun.github.io/blog/2015/03/23/presentacion-del-profesor-oscar-andrade-narrativa-vs-ludologia</id>
+    <link href="http://videojuegosun.github.io/blog/2015/03/10/presentacion-del-profesor-oscar-andrade-narrativa-vs-ludologia/"/>
+    <updated>2015-03-10T20:37:17-05:00</updated>
+    <id>http://videojuegosun.github.io/blog/2015/03/10/presentacion-del-profesor-oscar-andrade-narrativa-vs-ludologia</id>
     <content type="html"><![CDATA[<p><img height="200" width="300" style="float: left;" src="http://videojuegosun.github.io/images/monsters.jpg" /> En esta <a href="http://videojuegosun.github.io/Narrative-Ludology/">presentación</a> el profesor Oscar Andrade aborda los distintos aspectos relacionados tanto con la narrativa como con la ludología.</p>
 
 <!--more-->
@@ -221,9 +236,9 @@ para encontrar el ciclo de juego.</p>
   
   <entry>
     <title type="html"><![CDATA[Tarea Para El 10 De Marzo De 2015]]></title>
-    <link href="http://videojuegosun.github.io/blog/2015/03/08/tarea-para-el-10-de-marzo-de-2015/"/>
-    <updated>2015-03-08T19:09:22-05:00</updated>
-    <id>http://videojuegosun.github.io/blog/2015/03/08/tarea-para-el-10-de-marzo-de-2015</id>
+    <link href="http://videojuegosun.github.io/blog/2015/03/05/tarea-para-el-10-de-marzo-de-2015/"/>
+    <updated>2015-03-05T19:09:22-05:00</updated>
+    <id>http://videojuegosun.github.io/blog/2015/03/05/tarea-para-el-10-de-marzo-de-2015</id>
     <content type="html"><![CDATA[<p><img height="200" width="300" style="float: right;" src="http://videojuegosun.github.io/images/tareas.jpg" />La siguiente es la tarea dejada por el profesor Oscar Andrade y que se debe presentar el próximo martes 10 de marzo. Como guía para su elaboración, se puede ver en línea <a href="http://videojuegosun.github.io/RulesArt">la presentación de la clase</a> correspondiente, en la que se analizan los elementos que  se listan a continuación.</p>
 
 <!--more-->
@@ -245,7 +260,7 @@ para encontrar el ciclo de juego.</p>
 
 <p>Y analizar un videojuego a la luz de ese elemento. El análisis debe tener al menos 2 páginas: 1 página de texto en donde esté el análisis conceptual, y 1 página de análisis de imágenes (acotaciones de texto sobre las imágenes que expliqen los conceptos expuestos en la primera página). Al menos debe haber 1 enlace a un gameplay en video.</p>
 
-<p>Nota: La tarea debe ser enviada antes de la clase al correo <a href="&#x6d;&#x61;&#105;&#108;&#116;&#111;&#x3a;&#111;&#x73;&#x63;&#x61;&#x72;&#x2e;&#x61;&#110;&#100;&#x72;&#x61;&#100;&#x65;&#x40;&#106;&#x61;&#x67;&#117;&#97;&#114;&#x2e;&#x63;&#111;&#x6d;&#46;&#99;&#x6f;">&#111;&#115;&#x63;&#x61;&#114;&#x2e;&#97;&#110;&#100;&#x72;&#x61;&#100;&#101;&#x40;&#106;&#97;&#103;&#x75;&#x61;&#x72;&#46;&#x63;&#x6f;&#109;&#x2e;&#99;&#111;</a> con copia a <a href="&#109;&#97;&#105;&#x6c;&#116;&#x6f;&#x3a;&#103;&#x66;&#109;&#111;&#x72;&#97;&#116;&#x40;&#117;&#110;&#97;&#108;&#46;&#101;&#x64;&#x75;&#x2e;&#x63;&#x6f;">&#103;&#x66;&#109;&#111;&#114;&#97;&#116;&#64;&#x75;&#110;&#x61;&#108;&#46;&#x65;&#100;&#x75;&#46;&#99;&#x6f;</a></p>
+<p>Nota: La tarea debe ser enviada antes de la clase al correo <a href="&#x6d;&#97;&#x69;&#108;&#116;&#111;&#58;&#111;&#x73;&#99;&#97;&#114;&#46;&#97;&#x6e;&#x64;&#x72;&#x61;&#x64;&#101;&#x40;&#x6a;&#x61;&#x67;&#117;&#97;&#114;&#46;&#99;&#111;&#109;&#x2e;&#99;&#x6f;">&#x6f;&#x73;&#x63;&#x61;&#x72;&#46;&#97;&#x6e;&#100;&#114;&#x61;&#x64;&#x65;&#64;&#106;&#97;&#103;&#x75;&#x61;&#x72;&#46;&#x63;&#111;&#109;&#46;&#99;&#111;</a> con copia a <a href="&#109;&#x61;&#x69;&#x6c;&#x74;&#111;&#58;&#103;&#x66;&#109;&#111;&#114;&#97;&#x74;&#x40;&#x75;&#110;&#x61;&#x6c;&#x2e;&#101;&#100;&#117;&#x2e;&#99;&#111;">&#x67;&#102;&#109;&#x6f;&#x72;&#97;&#x74;&#64;&#x75;&#110;&#97;&#x6c;&#46;&#x65;&#x64;&#x75;&#x2e;&#x63;&#111;</a></p>
 
 <p>Por Oscar Andrade.</p>
 ]]></content>
@@ -253,9 +268,9 @@ para encontrar el ciclo de juego.</p>
   
   <entry>
     <title type="html"><![CDATA[Las Reglas Del Arte (Presentación Del Profesor Oscar Andrade)]]></title>
-    <link href="http://videojuegosun.github.io/blog/2015/03/08/presentacion-del-profesor-oscar-andrade/"/>
-    <updated>2015-03-08T17:41:35-05:00</updated>
-    <id>http://videojuegosun.github.io/blog/2015/03/08/presentacion-del-profesor-oscar-andrade</id>
+    <link href="http://videojuegosun.github.io/blog/2015/03/05/presentacion-del-profesor-oscar-andrade/"/>
+    <updated>2015-03-05T17:41:35-05:00</updated>
+    <id>http://videojuegosun.github.io/blog/2015/03/05/presentacion-del-profesor-oscar-andrade</id>
     <content type="html"><![CDATA[<p>En la sección <a href="http://videojuegosun.github.io/presentaciones">Presentaciones</a> ya se tiene la número 7 que corresponde a <a href="http://videojuegosun.github.io/RulesArt">la clase del profesor Oscar Andrade</a> sobre los elementos del arte (léxico), específicamente, <a href="http://videojuegosun.github.io/RulesArt/#/5">espacio</a>, <a href="http://videojuegosun.github.io/RulesArt/#/10">tiempo</a>, <a href="http://videojuegosun.github.io/RulesArt/#/14">luz / sombra</a>, <a href="http://videojuegosun.github.io/RulesArt/#/18">forma</a>, <a href="http://videojuegosun.github.io/RulesArt/#/25">color</a> y <a href="http://videojuegosun.github.io/RulesArt/#/34">textura</a>.</p>
 
 <p><a href="http://videojuegosun.github.io/RulesArt"><img style="float:left;" src="http://videojuegosun.github.io/images/imagenPostDeArte.jpg"> </a></p>
@@ -264,9 +279,9 @@ para encontrar el ciclo de juego.</p>
   
   <entry>
     <title type="html"><![CDATA[Experiencia De Usuario (Presentación Del Profesor Mateo Rojas)]]></title>
-    <link href="http://videojuegosun.github.io/blog/2015/03/06/presentacion-del-profesor-mateo-rojas-clase-del-3-de-marzo-de-2015/"/>
-    <updated>2015-03-06T03:15:05-05:00</updated>
-    <id>http://videojuegosun.github.io/blog/2015/03/06/presentacion-del-profesor-mateo-rojas-clase-del-3-de-marzo-de-2015</id>
+    <link href="http://videojuegosun.github.io/blog/2015/03/03/presentacion-del-profesor-mateo-rojas-clase-del-3-de-marzo-de-2015/"/>
+    <updated>2015-03-03T03:15:05-05:00</updated>
+    <id>http://videojuegosun.github.io/blog/2015/03/03/presentacion-del-profesor-mateo-rojas-clase-del-3-de-marzo-de-2015</id>
     <content type="html"><![CDATA[<p><a href="http://videojuegosun.github.io/UserExperience"><img style="float: right;" src="http://videojuegosun.github.io/images/mateoClase2.jpg" /></a> Ya se encuentra disponible <a href="http://videojuegosun.github.io/UserExperience/">la clase brindada el 3 de Marzo de 2015</a> por el profesor Mateo Rojas, en la que nos habló de los elementos a tener en cuenta para crear una experiencia de usuario que sea realmente agradable para el jugador de nuestros videojuegos. La presentación corresponde a la número 6 en la sección <a href="http://videojuegosun.github.io/presentaciones">Presentaciones</a>.</p>
 ]]></content>
   </entry>
