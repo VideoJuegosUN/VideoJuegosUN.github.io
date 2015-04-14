@@ -17,4 +17,4 @@ categories:
 
 ###Presentación del caso Jiggy Drama La Fuga:
 
-[Presentación sobre Jiggy Drama La Fuga](http://franchescomora.github.io/casoJiggy/#/1)
+[Presentación sobre Jiggy Drama La Fuga](http://videojuegosun.github.io/caso_Jiggy/#/1)
